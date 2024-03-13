@@ -1,7 +1,7 @@
 {
-  "name": "@mapbox/mapbox-gl-draw",
+  "name": "@mapbox/mapbox-gl-draw-touch-screen-fix",
   "version": "1.4.3",
-  "description": "A drawing component for Mapbox GL JS",
+  "description": "A drawing component for Mapbox GL JS + custom fix for touch events",
   "homepage": "https://github.com/mapbox/mapbox-gl-draw",
   "author": "mapbox",
   "license": "ISC",
